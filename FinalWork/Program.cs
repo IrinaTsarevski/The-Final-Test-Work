@@ -25,7 +25,7 @@ void PrintArray(string [] array)
 }
 
 Console.WriteLine();
-string [] arrString = {"text", "oh*", "cat", "mouse", "ex", "mom5", "wow", "cool"};
+string [] arrString = {"text", "dog", "Deutschland", "oh*", "cat", "mouse", "ex", "mom5", "wow", "cool"};
 PrintArray (arrString);
 string [] newArrString = NewArrayString(arrString);
 PrintArray (newArrString);
